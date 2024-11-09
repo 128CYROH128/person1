@@ -1,1 +1,2 @@
 # Configuration file
+Изменения в config.txt для person2
